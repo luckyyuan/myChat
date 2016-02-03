@@ -1,2 +1,2 @@
 # myChat
-a simle chat tool in LAN.
+a simple chat tool in LAN.
